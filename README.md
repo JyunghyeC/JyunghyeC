@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=65&fontAlignY=40" />
 </div>
 
@@ -16,8 +16,12 @@
   </div>
 
   <br>
-  <h3 align="center">GitHub Stats</h3>
+  <h3 align="center">🔎GitHub Stats🔎</h3>
   <div align="center">
+  
+  [![JyunghyeC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyunghyeC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyunghyeC&langs_count=5&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </body>
 
