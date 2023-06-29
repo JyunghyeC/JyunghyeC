@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=80&fontAlignY=40" />
 </div>
 
 <!--
