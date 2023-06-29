@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=80&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=65&fontAlignY=40" />
 </div>
 
 <body>
   <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   </div>
 </body>
 
