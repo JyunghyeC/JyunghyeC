@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 This is ...
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=65&fontAlignY=40" />
 </div>
+
+### I am currently working on ...
 
 <body>
   <h3 align="center">🛠️Tech Stacks🛠️</h3>
