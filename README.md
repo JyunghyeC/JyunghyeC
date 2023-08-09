@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NODEJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </div>
 
   <br>
@@ -28,6 +29,10 @@
 </body>
 
 ### 📮 How to reach me: 
+<div>
+  <p>💻 Blog : https://endlessthoughts.tistory.com/</p>
+  <p> ✏ Notion : </p>
+</div>
 
 <!--
 **JyunghyeC/JyunghyeC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
