@@ -31,7 +31,7 @@
 ### 📮 How to reach me : 
 <div>
   <p>💻 Blog : https://endlessthoughts.tistory.com/</p>
-  <p> ✏ Notion : </p>
+  <p> ✏ Notion : 노션 페이지 </p>
 </div>
 
 <!--
