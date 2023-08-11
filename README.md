@@ -28,7 +28,7 @@
   </div>
 </body>
 
-### 📮 How to reach me: 
+### 📮 How to reach me : 
 <div>
   <p>💻 Blog : https://endlessthoughts.tistory.com/</p>
   <p> ✏ Notion : </p>
