@@ -1,4 +1,4 @@
-### Hi there 👋 This is ...
+### Hi there 👋 This is ..
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=65&fontAlignY=40" />
