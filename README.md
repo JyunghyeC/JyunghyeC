@@ -21,8 +21,8 @@
   ### 🌱 I’m interested in...
   <div>
     <p>📊 Analyzing data to provide insights / help make data-driven decisions</p>
-    <p>💡 Machine Learning</p>
-    <p>🤖 Deep Learning</p>
+    <p>💡 Machine Learning / Deep Learning</p>
+    <p>🤖 Computer vision</p>
   </div>
 
   <br>
