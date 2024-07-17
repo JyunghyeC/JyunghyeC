@@ -22,7 +22,7 @@
   <div>
     <p>📊 Analyzing data to provide insights / help make data-driven decisions</p>
     <p>💡 Machine Learning / Deep Learning</p>
-    <p>🤖 Computer vision</p>
+    <p>🧩 Problem Solving </p>
   </div>
 
   <br>
@@ -36,7 +36,7 @@
   </div>
 </body>
 
-### 📮 How to reach me : 
+### 📮 Find out more about me : 
 <div>
   <p>💻 Blog : https://endlessthoughts.tistory.com/</p>
 <!--   <p><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> :  </p> -->
