@@ -25,8 +25,8 @@
   ### 🌱 I’m interested in...
   <div>
     <p>🧩 Problem Solving </p>
-    <p>📊 Improving quality of softwares by testing </p>
-    <p>💡 Test automation </p>
+    <p>📊 Improving Quality of Softwares </p>
+    <p>💡 Test Automation </p>
   </div>
 
   <br>
