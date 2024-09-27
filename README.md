@@ -4,25 +4,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JyungHye%20Choi&fontSize=65&fontAlignY=40" />
 </div>
 
+### And I'm a Software QA Engineer! 🖥
+<br>
+
 ### These are my ...
 
 <body>
   <h3 align="center">🛠️Tech Stacks🛠️</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=Postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Selenium-26BD28?style=for-the-badge&logo=Selenium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </div>
   <br>
   
   ### 🌱 I’m interested in...
   <div>
     <p>🧩 Problem Solving </p>
-    <p>📊 Analyzing data to provide insights / help make data-driven decisions</p>
-    <p>💡 Machine Learning</p>
+    <p>📊 Improving quality of softwares by testing </p>
+    <p>💡 Test automation </p>
   </div>
 
   <br>
